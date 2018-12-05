@@ -82,6 +82,15 @@ Science](http://www.jarrodmillman.com/rcsds).
 * [A simple project](https://github.com/berkeley-stat159/project-epsilon)
 * [An heroic project](https://github.com/berkeley-stat159/project-lambda)
 
+# Why?
+
+* massive increase in efficiency, reduction in error
+
+# Why not?
+
+* [I don't make many errors](https://dzone.com/articles/reality-developers-life-gifs)
+* The errors I make aren't very important
+
 # How shall this be done?
 
 * Factors in Berkeley.
