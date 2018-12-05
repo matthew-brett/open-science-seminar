@@ -104,7 +104,7 @@ All material for these slides at
 <https://github.com/matthew-brett/open-science-seminar>
 
 Handout at
-<https://github.com/matthew-brett/open-science-seminar/blob/master/data_confuse_deceive_handout.pdf>
+<https://github.com/matthew-brett/open-science-seminar/blob/master/open_science_seminar_handout.pdf>
 
 <#ifdef HANDOUT>
 # References
